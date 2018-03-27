@@ -1,4 +1,4 @@
-meatballs
+Meatballs
 marinara sauce
 tomato soup
 chicken noodle soup
@@ -7,18 +7,44 @@ chicken breast
 ribs
 pulled pork
 hamburger
+Burger
 cavity
 raw chicken breast
 steak
 tilapia
-bacon
-salmon
+Salmon
 sliced turkey
 sliced roast beef
-scrambled eggs
+Scrambled Eggs
 pastrami
 corned beef
 pulled chicken
-chili
+Grilled Chicken
+Chili
 HMS pulled pork
 pre-seared raw chicken breast
+Mashed Potatoes
+Sirloin Steak
+Sirloin Steak (Raw)
+Strip Steak
+Strip Steak (Raw)
+Spinach Dip
+Shrimp
+Lava Cake
+Mac & Cheese
+Breakfast Sandwich (Bagel)
+Breakfast Sandwich (Biscuit)
+Bacon
+Cookies
+Breakfast Sausage Patty
+Deli Meat
+Bacon (Pre-Cooked)
+Chicken Breast (Grilled BBQ)
+Hot Dog
+Burger (Pre-Cooked)
+Broccoli
+Asparagus
+Rice
+Salmon On Rice
+Lasagna
+Mushrooms
